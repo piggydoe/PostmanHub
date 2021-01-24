@@ -1,0 +1,10 @@
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\bin\Debug\PostmanClient.exe.config
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\bin\Debug\PostmanClient.exe
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\bin\Debug\PostmanClient.pdb
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.csprojAssemblyReference.cache
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.Postman.resources
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.Properties.Resources.resources
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.csproj.GenerateResource.cache
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.exe
+C:\Users\maria\Documents\CSharp\Postman\PostmanClient\PostmanClient\obj\Debug\PostmanClient.pdb
